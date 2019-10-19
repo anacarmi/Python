@@ -50,7 +50,8 @@ Después, se puede crear gráficos como un heatmap (o cualquier otro que se acom
 
 `seaborn.heatmap(by_h_w, cmap = 'YlGnBu', annot=True, fmt="d", annot_kws={"size": 9})`
 
-<img width="383" alt="Screen Shot 2019-10-19 at 11 34 12 AM" src="https://user-images.githubusercontent.com/47669890/67148347-66fcb680-f264-11e9-9d1d-65755114b16a.png">
+<img width="999" alt="Screen Shot 2019-10-19 at 11 42 55 AM" src="https://user-images.githubusercontent.com/47669890/67148480-a8da2c80-f265-11e9-836c-fb9b586990a6.png">
+
 
 *Nota:* [En este link](https://seaborn.pydata.org/generated/seaborn.heatmap.html) se puede encontrar la documentación para editar las funciones/características de un heatmap.
 
