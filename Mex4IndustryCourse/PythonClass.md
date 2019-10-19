@@ -23,13 +23,21 @@ Es importante conocer los datos y platicarlos con el cliente para saber si las f
 Lo que se hace es contar los renglones y agruparlos dependiendo del número del día para despues poder hacer una gráfica de que tanta frecuencia se viaja en tal día.
 
 
-# MATLAB
+## MATLAB
 Import matlab as mtb 
 
-mtb.hist()
+`mtb.hist()
 mtb.bar()
-mtb.plot()
+mtb.plot()`
 
-al final se pone mtb.show() para que se muestre
+al final se pone `mtb.show()` para que se muestre
 
+## Agrupar informacion en Matriz
+
+`by_h_w = data.groupby('weekday hour'.split()).apply(count_rows).unstack()`
+
+`by_h_w`
+
+Este código hace que se muestre el número de viajes de los datos por hora del día cada día de la semana. 
+el `.split()` sirve para dividir las horas del día de los días de la semana en dos listas para luego aplicar el `.apply(count_rows)` donde el apply es la función que llama lo que ya se aplicó antes de count_rows, que es que cuenta los renglones de la base de datos que se repite la misma hr. Luego, el `unstack()` es para poner en tipo tabla.
 
