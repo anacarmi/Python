@@ -5,3 +5,9 @@ The following project was executed in Jupyter Notebook using a csv file with Air
 
 The **objective** is to gather some insights for decision making using pandas, matplotlib, seaborn, etc.
 
+
+## These are the documents used for the project
+
+- [Airbnb Information](AirbnbCase/listings.csv)
+- [Jupyter Notebook](AirbnbCase/PythonProject.ipynb)
+- [Results](AirbnbCase/Results)
