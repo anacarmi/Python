@@ -8,6 +8,6 @@ The **objective** is to gather some insights for decision making using pandas, m
 
 ## These are the documents used for the project
 
-- [Airbnb Information](AirbnbCase/listings.csv)
+- [Airbnb Information](listings.csv)
 - [Jupyter Notebook](AirbnbCase/PythonProject.ipynb)
 - [Results](AirbnbCase/Results)
