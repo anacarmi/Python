@@ -24,3 +24,10 @@ So, comparing the last two graphics, we can see that the pattern is quite simila
 From a **consumer perspective**, a motivation to book an Airbnb would be to find a city where there is lots of variety for a low price, which in this case would be in Brooklyn.
 
 
+### Room Type information
+
+<img width="411" alt="Screen Shot 2019-10-22 at 1 17 04 PM" src="https://user-images.githubusercontent.com/47669890/67316746-a0385f00-f4ce-11e9-9365-4caa8d6caae0.png">
+
+According to the graph, Manhattan and Staten Island are the cities where hosts offer more entire home/apt than any other room type. On the other hand, Brooklyn and Queens and Bronx offer more private rooms. 
+
+So, as a customer, if you want to go somewhere staying in an entire home, you should look for Airbnbs in Manhattan. Anyways, if you would rather stay in a private room **because of the low cost**, then you should go to Brooklyn.
