@@ -1,5 +1,11 @@
 # Insights based on the information
 
+<img width="425" alt="Screen Shot 2019-10-22 at 8 53 49 AM" src="https://user-images.githubusercontent.com/47669890/67293561-34dc9600-f4aa-11e9-9345-b5086e0a4965.png">
+
+During last 10 years there has been an exponential growth of the number of properties in Airbnb.
+
+
+### Price and Variety
 
 <img width="407" alt="Screen Shot 2019-10-22 at 8 57 55 AM" src="https://user-images.githubusercontent.com/47669890/67293541-2ee6b500-f4aa-11e9-8443-6331ec9334c9.png">
 According to the graph, its easier to find an Airbnb in Manhattan and Brooklyn, because of the variety of propeties. 
@@ -18,6 +24,3 @@ So, comparing the last two graphics, we can see that the pattern is quite simila
 From a consumer perspective, a motivation to book an Airbnb would be to find a city where there is lots of variety for a good price, which in this case would be in Brooklyn.
 
 
-<img width="425" alt="Screen Shot 2019-10-22 at 8 53 49 AM" src="https://user-images.githubusercontent.com/47669890/67293561-34dc9600-f4aa-11e9-9345-b5086e0a4965.png">
-
-During last 10 years there has been an exponential growth of the number of properties in Airbnb.
