@@ -1,5 +1,10 @@
 # Insights based on the information
 
+#### From a csv file with 49748 rows of information, we can gather some insights for decision making. 
+
+
+### Airbnb's growth
+
 <img width="422" alt="Screen Shot 2019-10-23 at 12 24 30 PM" src="https://user-images.githubusercontent.com/47669890/67419555-85c7b980-f592-11e9-9d93-10fd77432749.png">
 
 During last 8 years there has been an exponential growth of the number of properties in Airbnb.
