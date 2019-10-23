@@ -1,9 +1,8 @@
 # Insights based on the information
 
-<img width="425" alt="Screen Shot 2019-10-22 at 8 53 49 AM" src="https://user-images.githubusercontent.com/47669890/67293561-34dc9600-f4aa-11e9-9345-b5086e0a4965.png">
+<img width="422" alt="Screen Shot 2019-10-23 at 12 24 30 PM" src="https://user-images.githubusercontent.com/47669890/67419555-85c7b980-f592-11e9-9d93-10fd77432749.png">
 
 During last 8 years there has been an exponential growth of the number of properties in Airbnb.
-
 
 ### Price and Variety
 
@@ -26,8 +25,12 @@ From a **consumer perspective**, a motivation to book an Airbnb would be to find
 
 ### Room Type information
 
-<img width="411" alt="Screen Shot 2019-10-22 at 1 17 04 PM" src="https://user-images.githubusercontent.com/47669890/67316746-a0385f00-f4ce-11e9-9365-4caa8d6caae0.png">
+<img width="419" alt="Screen Shot 2019-10-23 at 12 31 56 PM" src="https://user-images.githubusercontent.com/47669890/67419546-82ccc900-f592-11e9-85d5-72c8b75a80e5.png">
 
-According to the graph, Manhattan and Staten Island are the cities where hosts offer more entire home/apt than any other room type. On the other hand, Brooklyn and Queens and Bronx offer more private rooms. 
+<img width="397" alt="Screen Shot 2019-10-23 at 12 41 39 PM" src="https://user-images.githubusercontent.com/47669890/67419547-82ccc900-f592-11e9-93f0-9a8a0d74bfd1.png">
 
-So, as a customer, if you want to go somewhere staying in an entire home, you should look for Airbnbs in Manhattan. Anyways, if you would rather stay in a private room **because of the low cost**, then you should go to Brooklyn.
+According to the graphs, Manhattan and Staten Island are the cities where hosts offer more entire home/apt than any other room type. On the other hand, Brooklyn and Queens and Bronx offer more private rooms.  
+
+So, as a customer, if you want to go somewhere staying in an entire home, you should look for Airbnbs in Manhattan, even though they are expensive. Anyways, if you would rather stay in a private room **because of the low cost**, then you should go to Brooklyn.
+
+Looking at Staten Island, we can conclude that it would'nt be an option to look for any type of Airbnb in that city, because of the **low diversity and the high price** of being there.
