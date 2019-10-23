@@ -44,6 +44,7 @@ Looking at Staten Island, we can conclude that it would'nt be an option to look 
 
 Based on the data, the minimum revenue that hosts obtain are the following:
 
+<img width="399" alt="Screen Shot 2019-10-23 at 1 34 52 PM" src="https://user-images.githubusercontent.com/47669890/67424117-29b56300-f59b-11e9-8e5e-889db0f21739.png">
 
 So, as a possible host, you could decide **in which city to list your place for the service**. In this case, Manhattan is the best option, followed by Brooklyn and Queens. 
 
