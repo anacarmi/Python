@@ -1,6 +1,6 @@
 # Airbnb Case - Insights
 
-#### From a csv file with 49748 rows of information, we can gather some insights for decision making. 
+#### From a csv file with 49,748 rows of information, we can gather some insights for decision making. 
 
 
 ### Airbnb's growth
