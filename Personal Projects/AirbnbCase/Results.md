@@ -48,3 +48,11 @@ Based on the data, the minimum revenue that hosts obtain are the following:
 
 So, as a possible host, you could decide **in which city to list your place for the service**. In this case, Manhattan is the best option, followed by Brooklyn and Queens. 
 
+
+### Final Comments
+
+Because of the Airbnb's exponential growth, there is a lot of opportunity for hosts -to obtain profits- and clients -to have an experience-. 
+
+From the consumer point of view, it would be better to look for Airbnbs in Brooklyn because of the low price and the variety of rooms available. Since every year there is more and more properties in the market, it would be easier to find one with the client requierements.
+
+On the other hand, for possible hosts would be better to stablish a location in Manhattan, since there is a high revenue and possible profit, compared to the others cities.
