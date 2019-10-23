@@ -25,10 +25,10 @@ The price of booking an Airbnb is higher in Manhattan than any other city.
 
 So, comparing the last two graphics, we can see that the pattern is quite similar in both price and number of properties in the different cities. 
 
-From a **consumer perspective**, a motivation to book an Airbnb would be to find a city where there is lots of variety for a low price, which in this case would be in Brooklyn.
+From a **customer's perspective**, a motivation to book an Airbnb would be to find a city where there is lots of variety for a low price, which in this case would be in Brooklyn.
 
 
-### Room Type information for Consumer
+### Room Type information for Customer
 
 <img width="419" alt="Screen Shot 2019-10-23 at 12 31 56 PM" src="https://user-images.githubusercontent.com/47669890/67419546-82ccc900-f592-11e9-85d5-72c8b75a80e5.png">
 
@@ -51,8 +51,8 @@ So, as a possible host, you could decide **in which city to list your place for 
 
 ### Final Comments
 
-Because of the Airbnb's exponential growth, there is a lot of opportunity for hosts -to obtain profits- and clients -to have the Aribnb experience-. 
+Because of the _Airbnb's exponential growth_, there is a lot of opportunity for hosts -to obtain profits- and clients -to have the Aribnb experience-. 
 
-From the consumer point of view, it would be better to look for Airbnbs in Brooklyn because of the low price and the variety of rooms available. Since every year there is more and more properties in the market, it would be easier to find one with the client requierements.
+From **the customer's point of view**, it would be better to look for Airbnbs in Brooklyn because of the _low price_ and the _variety_ of rooms available. Since every year there is more and more properties in the market, it would be easier to find one with the client requierements.
 
-On the other hand, for possible hosts would be better to stablish a location in Manhattan, since there is a high revenue and possible profit, compared to the others cities.
+On the other hand, for **possible hosts** would be better to stablish a location in Manhattan, since there is a _high revenue_ and possible profit, compared to the others cities.
