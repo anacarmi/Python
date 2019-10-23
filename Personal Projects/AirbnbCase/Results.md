@@ -28,7 +28,7 @@ So, comparing the last two graphics, we can see that the pattern is quite simila
 From a **customer's perspective**, a motivation to book an Airbnb would be to find a city where there is lots of variety for a low price, which in this case would be in Brooklyn.
 
 
-### Room Type information for Customer
+### Room Type information
 
 <img width="419" alt="Screen Shot 2019-10-23 at 12 31 56 PM" src="https://user-images.githubusercontent.com/47669890/67419546-82ccc900-f592-11e9-85d5-72c8b75a80e5.png">
 
