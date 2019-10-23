@@ -5,7 +5,7 @@
 
 ### Airbnb's growth
 
-<img width="422" alt="Screen Shot 2019-10-23 at 12 24 30 PM" src="https://user-images.githubusercontent.com/47669890/67419555-85c7b980-f592-11e9-9d93-10fd77432749.png">
+<img width="442" alt="Screen Shot 2019-10-23 at 1 02 56 PM" src="https://user-images.githubusercontent.com/47669890/67421169-9463a000-f595-11e9-80d6-a16d32a4920a.png">
 
 During last 8 years there has been an exponential growth of the number of properties in Airbnb.
 
