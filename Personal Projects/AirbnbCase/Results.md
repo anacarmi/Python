@@ -1,4 +1,4 @@
-# Insights based on the information
+# Airbnb Case - Insights
 
 #### From a csv file with 49748 rows of information, we can gather some insights for decision making. 
 
@@ -28,7 +28,7 @@ So, comparing the last two graphics, we can see that the pattern is quite simila
 From a **consumer perspective**, a motivation to book an Airbnb would be to find a city where there is lots of variety for a low price, which in this case would be in Brooklyn.
 
 
-### Room Type information
+### Room Type information for Consumer
 
 <img width="419" alt="Screen Shot 2019-10-23 at 12 31 56 PM" src="https://user-images.githubusercontent.com/47669890/67419546-82ccc900-f592-11e9-85d5-72c8b75a80e5.png">
 
@@ -39,3 +39,11 @@ According to the graphs, Manhattan and Staten Island are the cities where hosts 
 So, as a customer, if you want to go somewhere staying in an entire home, you should look for Airbnbs in Manhattan, even though they are expensive. Anyways, if you would rather stay in a private room **because of the low cost**, then you should go to Brooklyn.
 
 Looking at Staten Island, we can conclude that it would'nt be an option to look for any type of Airbnb in that city, because of the **low diversity and the high price** of being there.
+
+### Insights for Hosts
+
+Based on the data, the minimum revenue that hosts obtain are the following:
+
+
+So, as a possible host, you could decide **in which city to list your place for the service**. In this case, Manhattan is the best option, followed by Brooklyn and Queens. 
+
